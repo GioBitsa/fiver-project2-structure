@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Rambla:400,700|Saira+Condensed:300,400,500,700,900');***/
+
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "liberation-sans",sans-serif;
+	position: relative;
+}
+h1, h2, h3, h4, h5, h6, p{
+	margin:0px;
+	padding:0px;
+	font-weight: normal;
+	line-height: 100%;
+}
+a, a:hover, a:focus{
+	text-decoration:none;
+	transition: 0.3s;
+}
+
+/* Header Section Start */
+
+#Header{
+	position: fixed;
+	width: 100%;
+	z-index: 100;
+	background: #00a8e5;
+}
+.bg-light{
+	background: #00a8e5 !important;
+	width: 100%;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.logo{
+	max-width: 56.8%;
+	width: 100%;
+}
+
+.mobile_logo{
+	display: none;
+}
+.nav-link{
+	font-size: 15px;
+	color: #000;
+	font-weight: 600;
+}
+.nav_right ul li {
+    list-style: none;
+}
+
+a.nav-link.manu_item {
+    display: flex;
+    align-items: center;
+    padding-top: 18px;
+}
+a.nav-link.manu_item:hover {
+    color: #242424;
+}
+a.nav-link.manu_item i {
+    padding-left: 9px;
+    font-size: 17px;
+}
+
+/* Header Section End */
+
+/* Footer Section Start */
+
+
+#Footer, .tab_footer{
+	background: #000;
+	display: block;
+	padding: 18px 55px 20px;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.footer_left p{
+	font-size: 14px;
+	color: #fff;
+	margin-right: 45px;
+	display: inline-block;
+}
+.footer_left ul{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+.footer_left ul li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.footer_left ul li a{
+	font-size: 17px;
+	line-height: 120%;
+	color: #fff;
+	padding: 3px;
+}
+.footer_right ul{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+.footer_right ul li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+.footer_right ul li a {
+	font-size: 14.5px;
+	line-height: 120%;
+	color: #fff;
+	font-weight: 400;
+	text-decoration: none;
+	border-right: 1px solid#fff;
+	padding: 0px 7px;
+}
+.footer_right .last_item {
+	border:0px;
+}
+
+
+ /* Footer Section End */

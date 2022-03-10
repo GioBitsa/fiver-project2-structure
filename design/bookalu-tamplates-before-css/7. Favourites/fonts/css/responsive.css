@@ -1,0 +1,445 @@
+
+@media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px) {
+
+	
+
+
+}
+
+@media only screen and (max-width: 1200px), only screen and (max-device-width: 1200px) {
+
+
+	.nav_logo_d {
+		max-width: 47%;
+		width: 100%;
+	}
+	.inner1_item, .inner1_item1{
+		max-width: 290px;
+		margin-right: 7px;
+	}
+	.inner1_item2, .inner1_item3{
+		max-width: 154px;
+	}
+	.inner2_item {
+		max-width: 290px;
+		margin-right: 7px;
+	}
+	.inner2_item1{
+		max-width: 128px;
+		margin-right: 0px;
+	}
+	.inner2_item2{
+		max-width: 80px;
+	}
+	.inner2_item3{
+		max-width: 90px;
+	}
+	.inner2_item4{
+		max-width: 138px;
+	}
+	.inner2_item5{
+		max-width: 160px;
+	}
+	.inner2_item5>button{
+		max-width: 160px;
+	}
+	.fooditem_title_right{
+		margin-left: 270px;
+	}
+	.card_text_inner p span{
+		padding-left: 78px;
+	}
+	.card_text_inner h3{
+		font-size: 12px;
+	}
+	.card_text_inner2 p{
+		font-size: 12px;
+	}
+	.card_text_inner ul li a{
+		font-size: 11px;
+	}
+	.card_text_inner_ul_item1 {
+		margin-left: -4px !important;
+	}
+	.card_text_inner_ul_item2 {
+		margin-left: 0px !important;
+	}
+	.card_text_inner3_right{
+		margin-left: 48px;
+	}
+	.card_text_inner4 ul li a{
+		font-size: 9.7px;
+	}
+	.card_text_inner4 ul li a:after{
+		top: 5px;
+	}
+	
+	.pc_footer_right ul li a{
+		font-size: 11.5px;
+	}
+
+
+
+}
+
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px){
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 991px), only screen and (max-device-width: 991px) {
+
+
+	.tab_header{
+		display: block !important;
+	}
+	.tab_header .col-md-12{
+		padding-right: 15px;
+    	padding-left: 15px;
+	}
+	.bannar_area{
+		display: none;
+	}
+	.tab_banner{
+		margin-top: 52px;
+		display: block;
+	}
+	
+	.createpage_heading_inner h1{
+		font-size: 42px;
+	}
+	.banner_form_inner_item{
+		margin-bottom: -15px;
+	}
+		.tab_display{
+		display: block;
+		margin-bottom: 0px;
+	}
+	
+	.card_text_inner4 ul li a:after {
+		top: 6px;
+	}
+	/***********************************/
+	/*********  add_area Area **********/
+	/***********************************/	
+	
+	.add_area {
+		padding-top: 88px;
+	}
+	.card_text_inner h3{
+		font-size: 16px;
+	}
+	.card_text_inner p span{
+		padding-left: 120px;
+	}
+	.card_text_inner3_right {
+		margin-left: 86px;
+	}
+	.card_text_inner4 ul li a{
+		font-size: 11px;
+	}
+	.fooditem_card_img span{
+		display: none;
+	}
+	.add2_area{
+		padding-bottom: 104px;
+	}
+	.card_text_inner2 p {
+		font-size: 14px;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	.fooditem_area .col-md-4{
+		ms-flex: 0 0 50%;
+		flex: 0 0 50%;
+    	max-width: 50%;
+	}
+	.fooditem_card3,
+	.fooditem_card6{
+		display: none;
+	}
+
+	
+	
+	
+
+}
+
+
+
+@media only screen and (max-width: 920px), only screen and (max-device-width: 920px) {
+
+	
+	.tab_display{
+		display: block;
+		margin-bottom: 0px;
+	}
+	
+	
+	/***********************************/
+	/*********  add_area Area **********/
+	/***********************************/	
+	
+	.add_area {
+		padding-top: 88px;
+	}
+	.card_text_inner h3{
+		font-size: 16px;
+	}
+	.card_text_inner p span{
+		padding-left: 120px;
+	}
+	.card_text_inner3_right {
+		margin-left: 86px;
+	}
+	.card_text_inner4 ul li a{
+		font-size: 11px;
+	}
+	.fooditem_card_img span{
+		display: none;
+	}
+	.add2_area{
+		padding-bottom: 104px;
+	}
+	
+	.fooditem_area .col-md-4{
+		ms-flex: 0 0 50%;
+		flex: 0 0 50%;
+    	max-width: 50%;
+	}
+	.fooditem_card3,
+	.fooditem_card6{
+		display: none;
+	}
+
+
+}
+
+
+
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+	
+	
+	.account_copright_inner p{
+		max-width: 400px;
+	}
+	.account_top_title a{
+		right: 16px;
+	}
+	
+	
+	
+	/***********************************/
+	/*********  add_area Area **********/
+	/***********************************/
+	
+	.fooditem_area .col-md-4{
+		ms-flex: 0 0 50%;
+		flex: 0 0 50%;
+    	max-width: 50%;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+@media only screen and (max-width: 766px), only screen and (max-device-width: 766px) {
+		.add_area {
+		padding-top: 76px;
+		padding-bottom: 35px;
+	}
+	
+	.fooditem_area .col-md-4{
+		ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+    	max-width: 100%;
+	}
+	.fooditem_card{
+		max-width: 360px;
+		width: 100%;
+		margin: 0 auto;
+	}
+	.fooditem_card5{
+		display: none;
+	}
+	.card_text_inner p span {
+		padding-left: 152px;
+	}
+	.card_text_inner h3 {
+		font-size: 17px;
+	}
+	.card_text_inner3_right {
+		margin-left: 120px;
+	}
+	.card_text_inner4 ul li a {
+		font-size: 13px;
+	}
+	.add2_area {
+		padding-top: 23px;
+		padding-bottom: 90px;
+	}
+	.add2_img1, .add1_img1{
+		display: none;
+	}
+	.add2_img2, .add1_img2{
+		display: block;
+		margin: 0 auto;
+	}
+	.card_text_inner ul li a {
+		font-size: 12px;
+	}
+	
+	
+	
+	
+}
+@media only screen and (max-width: 520px), only screen and (max-device-width: 520px) {
+	.add_area {
+		padding-top: 76px;
+		padding-bottom: 35px;
+	}
+	
+	.fooditem_area .col-md-4{
+		ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+    	max-width: 100%;
+	}
+	.fooditem_card{
+		max-width: 360px;
+		width: 100%;
+		margin: 0 auto;
+	}
+	.fooditem_card5{
+		display: none;
+	}
+	.card_text_inner p span {
+		padding-left: 152px;
+	}
+	.card_text_inner h3 {
+		font-size: 17px;
+	}
+	.card_text_inner3_right {
+		margin-left: 120px;
+	}
+	.card_text_inner4 ul li a {
+		font-size: 16px;
+	}
+	.add2_area {
+		padding-top: 23px;
+		padding-bottom: 90px;
+	}
+	.add2_img1, .add1_img1{
+		display: none;
+	}
+	.add2_img2, .add1_img2{
+		display: block;
+		margin: 0 auto;
+	}
+	.fooditem_card,
+	.fooditem_card_img{
+		max-width: 100%;
+	}
+	.fooditem_card_img>img{
+		width: 100%;
+	}
+	.card_text_inner p span {
+		padding-left: 186px;
+		float: right;
+	}
+	.card_text_inner h3 {
+		font-size: 22px;
+	}
+	.card_text_inner3_right {
+		margin-left: 154px;
+		float: right;
+	}
+	.fooditem_card_img a{
+		right: 8px;
+    	top: 8px;
+	}
+	
+	.card_text_inner4 ul li a:after {
+		top: 10px;
+	}
+	.add2_img2, .add1_img2{
+		width: 100%;
+	}
+	.fooditem_card_img a img{
+		margin-left: -1px;
+		margin-top: -2px;
+	}
+	
+	
+}
+
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+	.fooditem_card,
+	.fooditem_card_img{
+		max-width: 100%;
+	}
+	.fooditem_card_img>img{
+		width: 100%;
+	}
+	.card_text_inner p span {
+		padding-left: 186px;
+	}
+	.card_text_inner h3 {
+		font-size: 19px;
+	}
+	.card_text_inner3_right {
+		margin-left: 154px;
+	}
+	.fooditem_card_img a{
+		right: 8px;
+    	top: 8px;
+	}
+	
+	
+	.add2_img2, .add1_img2{
+		width: 100%;
+	}
+	
+	
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 375px), only screen and (max-device-width: 375px) {
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+

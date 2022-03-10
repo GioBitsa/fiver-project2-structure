@@ -1,0 +1,316 @@
+
+@media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px) {
+	
+	
+}
+
+@media only screen and (max-width: 1200px), only screen and (max-device-width: 1200px) {
+
+.services_page .need_width {
+    width: 80px !important;
+}
+.pc_footer_right ul li a {
+    font-size: 11.5px;
+    padding: 0 9px;
+}
+}
+
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px){
+	.services_page .col-2, .col-xl-2, .col-lg-2, .col-md-2, .col-2-services-price{
+		padding-right: 10px;
+    	padding-left: 10px;
+	}
+	.services_page .col-md-11{
+		ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 991px), only screen and (max-device-width: 991px) {
+
+
+	.contact_details_page .listtext>a{
+		font-size: 11px;
+	}
+	.contact_details_page .listtext1{
+		font-size: 13px;
+	}
+		.services_page .mycheckdays {
+		margin-left: 15px;
+		margin-right: 0px;
+	}
+	.services_page .fs-12, .mylables {
+		font-size: 14px;
+	}
+	.services_page .my-p-badge {
+		padding-left: 10px;
+		margin-right: 8px;
+	}
+	.tab_display_innerlist1 img {
+		margin-left: -77px;
+	}
+	.tab_display_innerlist6 img {
+		margin-right: -66px;
+		width: 100%;
+	}
+	
+
+}
+
+
+
+@media only screen and (max-width: 920px), only screen and (max-device-width: 920px) {
+
+	.wrapper{
+		border: none;
+	}
+	.wrapper_close{
+		top: -40px;
+    	right: 4px;
+	}
+	.change_lorem_page .wrapper_close{
+		top: -40px;
+    	right: 10px;
+	}
+	
+	
+	
+
+
+}
+
+
+
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+	
+	.contact_details_page .blackbtn{
+		margin-bottom: 200px;
+	}
+	.info_page .blackbtn{
+		margin-top: 21px;
+	}
+	.info_page .file-label {
+		margin-bottom: 0.5rem;
+	}
+	.opening_page .info-img img{
+		margin-top: 0px !important; 
+		margin-bottom: -98px;
+	}
+	.contact_details_page .listtext1{
+		font-size: 14px;
+	}
+	.opening_page .wrapper_close{
+	top: -20px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+@media only screen and (max-width: 766px), only screen and (max-device-width: 766px) {
+	
+	.contact_details_page .b-col {
+		display: block !important;
+		min-width: 100% !important;
+	}
+	.tab-name {
+		margin-left: 1px;
+		padding: 0px;
+		font-size: 14px;
+	}
+	.opening_page {
+		margin-top: 96px;
+	}
+	
+	.opening_page .info-img img {
+		margin-top: -50px !important;
+    	margin-bottom: 0px
+	}
+	.tab_display_innerlist6 img {
+		margin-right: -54px;
+		width: 100%;
+	}
+	.tab_display_innerlist1 img {
+		margin-left: -50px;
+	}
+	
+}
+
+@media only screen and (max-width: 670px), only screen and (max-device-width: 660px){
+	.opening_page .colom_1 {
+		padding-left: 20px;
+	}
+	.opening_page .colom_2 {
+		padding-left: 16px;
+	}
+	.services_page .mycheckdays {
+		margin-left: 10px;
+		margin-right: 0px;
+	}
+	.services_page{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.services_page .fs-12, .mylables {
+		font-size: 13px;
+	}
+}
+
+@media only screen and (max-width: 555px), only screen and (max-device-width: 555px){/********* Mobile Responsive *******/
+	.mt-custom {
+		margin-top: 1rem;
+	}.offer_page_p1 br {
+		display: none;
+	}
+	.contact_details_page .my-3_1 {
+		margin-top: 31px !important;
+	}
+	.contact_details_page .blackbtn{
+		margin-top: 22px;
+	}
+	.info_page .hideonmobile {
+		display: none !important;
+	}
+	.info_page .filebtn-logo {
+		margin-top: 30px;
+	}
+	.filebtn-logo:after {
+		content: "Choose an image";
+	}
+	.info_page .filebtn-logo:before{
+		top: -47px;
+    	left: -100px;
+	}
+	.info_page .justify-content-center2{
+		margin-top: 16px;
+	}
+	.info_page .blackbtn {
+		margin-top: 36px;
+	}
+	.offer_page .top_box{
+		padding-left: 88px;
+	}
+	.offer_page .top_box:after{
+		left: 14px;
+   	 	top: -15px;
+	}
+	.offer_page .file-label{
+		margin-top: 4px;
+	}
+	.offer_page .blackbtn{
+		margin-top: 28px;
+	}
+	
+	.opening_page .blackbtn {
+		margin-top: 40px;
+	}
+	.col-p-Consectetur-hide{
+		display: none;
+	}
+	.services_page .need_width{
+		width: 80px !important;
+	}
+	.services_page .my-row-data-services .col-5{
+		padding-right: 10px;
+	}
+	.services_page .my-row-data-services .col-4{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.services_page .btn-lg{
+		margin-left: 10px;
+	}
+	.contact_details_page {
+		margin-top: 15px !important;
+	}
+	.info_page {
+		padding-top: 2px;
+	}
+	.opening_page {
+		margin-top: 96px;
+	}
+	.opening_page .mycol {
+		margin-top: 0px;
+	}
+	.services_page .my-p-badge img{
+		position: absolute;
+		right: 19px;
+		top: -10px;
+	}
+	.services_page .my-p-badge {
+		padding-left: 0px;
+		margin-right: 0px;
+	}
+	.services_page .mycheckdays{
+		margin-bottom: 20px;
+	}
+
+}
+@media only screen and (max-width: 540px), only screen and (max-device-width: 540px){
+	
+	.opening_page .tabnav {
+		width: 30%;
+	}
+	.opening_page .tabnav1 {
+		width: 37%
+	}
+	.custom-font {
+		font-size: 14px;
+	}
+	.opening_page .myselect{
+		width: 100%;
+	}
+	
+}
+
+@media only screen and (max-width: 520px), only screen and (max-device-width: 520px) {
+	.contact_details_page .tabnav1 {
+		width: 35%; 
+	}
+	.contact_details_page .tabnav2,
+	.contact_details_page .tabnav3{
+		width: 32%; 
+	}
+
+}
+
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 375px), only screen and (max-device-width: 375px) {
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+

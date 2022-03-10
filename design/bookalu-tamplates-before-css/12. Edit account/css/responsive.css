@@ -1,0 +1,170 @@
+
+@media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px) {
+
+
+
+
+}
+
+@media only screen and (max-width: 1200px), only screen and (max-device-width: 1200px) {
+
+	.nav_logo_d {
+		max-width: 44%;
+		width: 100%;
+	}
+	.manu_item2{
+		font-weight: 400 !important;
+	}
+	.pc_footer_right ul li a {
+		font-size: 11.5px;
+		padding: 0 11px;
+	}
+	.enter_pass_area .container {
+		max-width: 960px;
+	}
+
+
+}
+
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px){
+
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 991px), only screen and (max-device-width: 991px) {
+
+	.enter_pass_area .container {
+		max-width: 720px;
+	}.image__upload__btn { 
+		margin-left: -21px;
+	}.image__upload__wrapper {
+		text-align: center;
+	}.details_input_box_top { 
+		text-align: center;
+	}
+	.details_area .container {
+		max-width: 720px;
+	}
+	.enter_pass_left{
+		max-width: 304px;
+	}
+	.enter_pass_right{
+		float: right;
+	}
+	.right_side:before{
+		display: none;
+	}
+	.details_area .col-md-6{
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.details_input_box{
+		max-width: 328px;
+		margin: 0 auto;
+	}
+	.right_side{
+		float: none;
+		margin: 0 auto;
+		margin-top: 60px;
+	}
+	.details_input_box2{
+		margin-top: 30px;
+	}
+	#details_input_box_right{
+		margin-top: 10px;
+	}
+	.address1{
+		margin-top: 10px
+	}
+	.details_input_box3 {
+		margin-top: 14px;
+	}
+	.details_btn{
+		margin-bottom: 110px;
+		max-width: 325px;
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	.details_area_title{
+		margin-bottom: 52px;
+	}
+	#details_input_box2 {
+		margin-top: 16px;
+	}
+
+
+}
+
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+	
+	.enter_pass_area .container {
+		max-width: 540px;
+	}
+	.details_area .container {
+		max-width: 540px;
+	}
+	.details_area{
+		padding-top: 40px;
+	}
+	.details_area_title {
+		margin-bottom: 39px;
+	}
+	.right_side {
+		margin-top: 24px;
+	}
+	.details_input_box3 {
+		margin-top: 16px;
+	}
+	.details_btn {
+		margin-top: 52px;
+	}
+	
+}
+
+@media only screen and (max-width: 766px), only screen and (max-device-width: 766px) {
+	.enter_pass_left{
+		max-width: 536px;
+		display: block;
+		padding-bottom: 10px;
+	}
+	.enter_pass_right{
+		float: none;
+		margin: 0 auto;
+		width: 100%;
+		display: block;
+	}
+	
+	
+	
+}
+@media only screen and (max-width: 520px), only screen and (max-device-width: 620px) {
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 375px), only screen and (max-device-width: 375px) {
+	
+	
+	
+}
+
+
+
+
+
+
+
+

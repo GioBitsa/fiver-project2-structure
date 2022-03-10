@@ -1,0 +1,735 @@
+
+@media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px) {
+
+	
+
+
+}
+
+@media only screen and (max-width: 1200px), only screen and (max-device-width: 1200px) {
+
+	.left_inner_top p{
+		max-width: 400px;
+	}
+	.right_inner_bottom ul li a{
+		padding: 0px 7px;
+	}
+	.right_inner_top h1{
+		font-size: 33px;
+	}
+	.signup2_page .site_form button{
+		
+	}
+
+}
+
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
+	
+	
+		.right_inner_bottom ul li a {
+			padding: 0px 6px;
+		}
+
+
+
+}
+
+@media only screen and (max-width: 991px), only screen and (max-device-width: 991px){
+
+
+
+	.mobile_right>a>img, .mobile_left>a>img{
+		opacity: 0;
+	}
+	
+	#create_page_right {
+		padding-bottom: 53px;
+		max-width: 500px;
+		margin: 0 auto;
+	}
+	.site_header{
+		padding-top: 0px !important;
+	}
+	.main_bg{
+		width: 100%;
+		margin-left: 0px;
+	}
+	.site_header{
+		padding-top: 15px;
+	}
+	.site_main {
+		padding-top: 50px;
+	}
+	.site_main_right{
+		padding-top: 68px;
+		padding-left: 0px;
+	}
+	.site_logo{
+		display: none;
+	}
+	.mobile{
+		display: block;
+		height: 48px;
+		padding-top: 9px;
+	}
+	.right_inner_top img{
+		display: none;
+	}
+	.right_inner_top h1{
+		color: #fff;
+		font-size: 38px;
+	}
+	.site_main .col-md-6{
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+		width: 100%;
+    	margin: 0 auto;
+	}
+	.hide{
+		display: none;
+	}
+	.tab{
+		display: block;
+	}
+	.site_form input{
+		background: none;
+		color: #fff;
+		border: 1px solid#fff !important;
+	}
+	.site_form input::-webkit-input-placeholder { 
+	  color: #fff;
+	}
+	.site_form input:-ms-input-placeholder { 
+	  color: #fff;
+	}
+	.site_form input::placeholder {
+	  color: #fff;
+	}
+	#login{
+		color: #fff;
+	}
+	.for_pass a, .need_acc p, .need_acc p a{
+		color: #fff;
+	}
+	.right_inner_bottom{
+		display: none;
+	}
+	.tab_display{
+		display: block;
+		margin-bottom: 0px;
+	}
+	
+	/**************************************/
+	/*************  Sign Up  **************/
+	/**************************************/
+	
+	.login_page{
+		padding-bottom: 2px;
+	}
+	.login_page .site_main_right {
+		padding-top: 64px !important;
+	}
+	.signup2_page .right_inner_top {
+		padding-bottom: 19px;
+	}
+	.login_page .right_inner_top h1 {
+		padding-top: 77px;
+	}
+	.right_inner_top p{
+		display: block;
+		color: #fff;
+	}
+	.login_page .site_form button {
+		margin-top: 22px !important;
+	}
+	.signup_lab{
+		color: #fff;
+	}
+	.have_acc{
+		margin-bottom: 100px;
+	}
+	.have_acc p, .have_acc p a{
+		color: #fff;
+	}
+	.login_page .right_inner_top {
+		padding-bottom: 74px;
+	}
+	.login_btn{
+		margin-top: 60px !important;
+	}
+	.for_pass{
+		padding-top: 71px;
+	}
+	.login_page .need_acc{
+		padding-top: 42px;
+	}
+	.signup2_page .have_acc{
+		padding-top: 54px;
+		margin-bottom: 64px;
+	}
+	.login_page .playstore{
+		margin-bottom: 69px;
+	}
+	.signup2_page .site_main_right {
+		padding-top: 68px;
+	}
+	.signup2_page .playstore {
+		margin-bottom: 70px;
+	}
+	.signup2_page .right_inner_top p{
+    	max-width: 545px;
+		margin: 0 auto;
+		font-size: 16px;
+		line-height: 20px;
+		padding-top: 45px;
+	}
+	.signup2_page #signup button {
+		margin-top: 24px;
+	}
+	.signup2_page .right_inner_top p{
+		padding-top: 14px;
+	}
+	.signup2_page .signup_lab{
+			margin-right: 19px;
+		}
+		
+	
+	/**************************************/
+	/*************  Sign Up2  **************/
+	/**************************************/
+	
+	.signup_page2 {
+		padding-top: 88px;
+	}
+	.signup_page2 .right_inner_top {
+		padding-bottom: 77px;
+	}
+	.signup_page2 .site_main_right {
+		padding-top: 27px;
+	}
+	.signup_page2 .sign_up2_p{
+		display: none;
+	}
+	.signup_lab2{
+		color: #fff;
+	}
+	.signup_lab2:before{
+		background: #fff;
+	}
+	#signup2_check_inner{
+		background: none;
+	}
+	.signup2_check input{
+		background: none !important;
+	}
+	.agree_terms, .agree_terms a{
+		color: #fff;
+	}
+	#signup2 button{
+		margin-top: 50px;
+	}
+	.signup_page2 .right_inner_top p{
+		max-width: 522px;
+		margin: 0 auto;
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.signup_page2 .signup2_check{
+		padding-top: 7px;
+	}
+	.signup_page2 #signup2 button {
+		margin-top: 44px;
+		margin-bottom: 2px;
+	}
+	.signup_page2 .have_acc{
+		margin-bottom: 106px;
+		padding-top: 40px;
+	}
+	
+		
+	/**************************************/
+	/************  Create Page  ***********/
+	/**************************************/
+	
+	.creat_page_p{
+		padding-top: 58px !important;
+		color: #fff!important;
+	}
+	.check_box_btn button{
+		color: #fff;
+		border: 1px solid#fff;
+	}
+	.selected:after{
+		background: url("../images/checkmark.png")center center no-repeat;
+	}
+	.selected{
+		border: 2px solid#fff!important;
+	}
+	.creaete_page_btn{
+		margin-bottom: 230px !important;
+		margin-top: -7px !important;
+	}
+	
+	/**************************************/
+	/*************  Sign Up3 **************/
+	/**************************************/
+	
+	.signup_page3 .site_main_right {
+		padding-top: 78px;
+	}
+	.signup_page3 .select_gender{
+		background: none;
+		color: #fff;
+	}
+	.signup_page3 .right_inner_top h1{
+		padding-top: 2px;
+	}
+	.signup_page3 .sign_up2_p{
+		display: none;
+	}
+	.signup_page3 .right_inner_top {
+		padding-bottom: 117px;
+	}
+	.select_gender_m p i{
+		color: #fff;
+	}
+	.signup_page3 .form_image{
+		margin-top: 29px;
+	}
+	.signup_page3 .form_image #feedback{
+		margin-top: 12px;
+		color: #fff;
+	}
+	.signup_page3 .site_form button {
+		margin-top: 21px !important;
+	}
+	.signup_page3 .have_acc {
+		padding-top: 42px;
+		margin-bottom: 106px;
+	}
+	
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 920px), only screen and (max-device-width: 920px) {
+
+
+	.tab_display_inner ul li a{
+		font-size: 15px;
+	}
+	.tab_display{
+		display: block;
+		margin-bottom: 10px;
+	}
+	.right_inner_bottom{
+		display: none;
+	}
+}
+
+
+
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+	
+	
+	.main_bg{
+		width: 100%;
+		margin-left: 0px;
+	}
+	.site_header{
+		padding-top: 15px;
+	}
+	.site_main_right{
+		padding-top: 78px;
+	}
+	.site_logo{
+		display: none;
+	}
+	.mobile{
+		display: block;
+	}
+	.right_inner_top img{
+		display: none;
+	}
+	.right_inner_top h1{
+		color: #fff;
+		font-size: 38px;
+	}
+	.site_main .col-md-6{
+		max-width: 100% !important;
+		width: 100%;
+    	margin: 0 auto;
+	}
+	.hide{
+		display: none;
+	}
+	.tab{
+		display: block;
+	}
+	.mobile_s{
+		display: none;
+	}
+	.site_form input{
+		background: none;
+		color: #fff;
+		border: 1px solid#fff;
+	}
+	.site_form input::-webkit-input-placeholder { 
+	  color: #fff;
+	}
+	.site_form input:-ms-input-placeholder { 
+	  color: #fff;
+	}
+	.site_form input::placeholder {
+	  color: #fff;
+	}
+	#login{
+		color: #fff;
+	}
+	.for_pass a, .need_acc p, .need_acc p a{
+		color: #fff;
+	}
+	.need_acc{
+		padding-bottom: 0px;
+    	padding-top: 29px;
+	}
+	.login_page .playstore{
+		margin-top: 36px;
+		margin-bottom: 32px;
+	}
+	.right_inner_bottom{
+		display: none;
+	}
+	.tab_display{
+		display: block;
+		margin-bottom: 0px;
+	}
+	.tab, .creat_page_p {
+		display: none !important;
+	}
+	
+	
+	/**************************************/
+	/*************  Sign Up  **************/
+	/**************************************/
+	.mobile_s {
+		display: block;
+	}
+	
+	.right_inner_top p{
+		display: block;
+	}
+	.signup_lab{
+		color: #fff;
+	}
+	.have_acc{
+		margin-bottom: 48px;
+	}
+	.have_acc p, .have_acc p a{
+		color: #fff;
+	} 
+	.login_page .site_main_right {
+		padding-top: 44px !important;
+	}
+	.login_page .right_inner_top {
+		padding-bottom: 64px;
+	}
+	.login_page .need_acc {
+		padding-top: 28px;
+	}
+	.login_page .for_pass {
+		padding-top: 32px;
+	}
+	.login_page .right_inner_top h1 {
+		padding-top: 8px;
+	}
+	.login_btn {
+		margin-top: 20px !important;
+	}
+	.signup2_page .site_main_right {
+		padding-top: 0;
+	}
+	.signup2_page .right_inner_top h1{
+		padding-top: 8px;
+	}
+	.signup2_page #signup button {
+		margin-top: 19px;
+	}
+	.signup2_page .have_acc {
+		padding-top: 15px;
+	}
+	.signup2_page .right_inner_top {
+		padding-bottom: 14px;
+	}
+	.signup2_page .have_acc {
+		margin-bottom: 21px;
+	}
+	.signup2_page .playstore {
+		margin-top: 20px;
+		margin-bottom: 32px;
+	}
+	
+	
+	/**************************************/
+	/*************  Sign Up2  **************/
+	/**************************************/
+	
+	.signup_page2 {
+		padding-top: 36px;
+	}
+	.signup_page2 .right_inner_top {
+		padding-bottom: 43px;
+	}
+	.signup_lab2{
+		color: #fff;
+		margin-top: 6px;
+	}
+	.signup_lab2:before{
+		background: #fff;
+	}
+	#signup2_check_inner{
+		background: none;
+	}
+	.signup2_check input{
+		background: none !important;
+	}
+	.agree_terms, .agree_terms a{
+		color: #fff;
+	}
+	#signup2 button{
+		margin-top: 50px;
+	}
+	.signup_page2 .signup2_check {
+		padding-top: 10px;
+	}	
+	.signup_page2 #signup2 button {
+		margin-top: 26px;
+		margin-bottom: 27px;
+	}
+	.signup_page2 .site_main_right {
+		padding-top: 3px;
+	}
+	.signup_page2 .have_acc{
+		display: block;
+		padding-top: 0px;
+	}
+	.signup_page2 .have_acc p{
+		display: block;
+		padding-top: 0px;
+	}
+	.signup_page2 .have_acc {
+		margin-bottom: 29px;
+	}
+		
+	
+	
+	/**************************************/
+	/************  Create Page  ***********/
+	/**************************************/
+	
+	.creat_page_p{
+		padding-top: 58px !important;
+		color: #fff!important;
+	}
+	.check_box_btn button{
+		color: #fff;
+		border: 1px solid#fff;
+	}
+	.selected:after{
+		background: url("../images/checkmark.png")center center no-repeat;
+	}
+	.selected{
+		border: 2px solid#fff!important;
+	}
+	.creaete_page_btn{
+		margin-bottom: 40px !important;
+		margin-top: 124px !important;
+	}
+	
+	#create_page_right {
+		padding-bottom: 57px;
+		max-width: 500px;
+		margin: 0 auto;
+	}
+	
+	/**************************************/
+	/*************  Sign Up3 **************/
+	/**************************************/
+	
+	.signup_page3 .right_inner_top {
+		padding-bottom: 44px;
+	}
+	.signup_page3 .form_image{
+		height: 46px;
+	}
+	.signup_page3 .have_acc {
+		padding-top: 29px;
+		margin-bottom: 28px;
+	}
+	.signup_page3 .have_acc p {
+		display: block;
+	}
+	.signup_page3 .site_main_right {
+		padding-top: 66px;
+	}
+	.signup_page3 .form_image {
+		margin-top: 13px;
+	}
+	.signup_page3 .select_gender_m, .signup_page3 .select_gender{
+		max-width: 100%;
+	}
+	
+	
+	
+	
+}
+
+@media only screen and (max-width: 580px), only screen and (max-device-width: 580px) {
+	
+	
+	.tab, .creat_page_p{
+		display: none !important;
+	}
+	.mobile_s{
+		display: block;
+	}
+	.right_inner_mid, .site_form input, .site_form button{
+		max-width: 100%;
+	}
+	.sign_up_p, .sign_up2_p{
+		display: block !important;
+	}
+	.signup_lab{
+		margin-left: 0px;
+		margin-right: 0px !important;
+		display: block;
+		margin-top: 7px;
+		text-align: left;
+	}
+	.signup2{
+		max-width: 100%;
+	}
+	.signup2 input {
+		max-width: 48.88%;
+		display: inline-block;
+	}
+	.create_right_title{
+		font-size: 35px !important;
+		margin-bottom: 50px !important;
+	}
+	.creaete_page_btn{
+		margin-bottom: 70px !important;
+	}
+	#create_page_right {
+		padding-bottom: 8px;
+		max-width: 500px;
+		margin: 0 auto;
+	}
+	.tab_display_inner_a>a{
+		height: 24px !important;
+	}
+	.tab_display_inner ul li a {
+		font-size: 11px;
+		padding: 0px 9px 0px 9px;
+	}
+	.tab_display .col-md-12{
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.login_page .site_main {
+		margin-bottom: 0px !important;
+	} 
+	.signup_page2 .signup2 input:first-child{
+		margin-right: 0px;
+	}
+	
+	
+	
+}
+
+
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+	
+	.tab, .creat_page_p{
+		display: none !important;
+	}
+	.mobile_s{
+		display: block;
+	}
+	.right_inner_mid, .site_form input, .site_form button{
+		max-width: 100%;
+	}
+	.signup_lab{
+		margin-left: -124px;
+	}
+	.signup2_page .signup_lab {
+		margin-left: 0px;
+		margin-right: 0px !important;
+		display: block;
+		margin-top: 7px;
+		text-align: left;
+	}
+	.signup2{
+		max-width: 100%;
+	}
+	.signup2 input {
+		max-width: 48%;
+		display: inline-block;
+	}
+	.create_right_title{
+		font-size: 32px !important;
+		margin-bottom: 50px !important;
+	}
+	.creaete_page_btn{
+		margin-bottom: 70px !important;
+	}
+
+	
+	
+	
+}
+@media only screen and (max-width: 375px), only screen and (max-device-width: 375px) {
+	
+	.right_inner_top h1 {
+		color: #fff;
+		font-size: 34px;
+	}
+	.tab_display_inner ul li a {
+		font-size: 11px;
+		padding: 0px 8px 0px 8px;
+	}
+	
+	
+	
+}
+@media only screen and (max-width: 340px), only screen and (max-device-width: 340px) {
+	
+	.right_inner_top h1 {
+		color: #fff;
+		font-size: 30px;
+	}
+	.create_right_title {
+		font-size: 27px !important;
+		margin-bottom: 50px !important;
+	}
+	.tab_display_inner ul li a {
+		font-size: 11px;
+		padding: 0px 4px 0px 4px;
+	}
+	
+	
+	
+	
+}
+
+
+
+
+
+
+

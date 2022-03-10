@@ -1,0 +1,233 @@
+
+@media only screen and (max-width: 1440px), only screen and (max-device-width: 1440px) {
+
+
+
+
+}
+
+@media only screen and (max-width: 1200px), only screen and (max-device-width: 1200px) {
+.nav_logo_d {
+		max-width: 47%;
+		width: 100%;
+	}
+	.inner1_item, .inner1_item1{
+		max-width: 290px;
+		margin-right: 7px;
+	}
+	.inner1_item2, .inner1_item3{
+		max-width: 154px;
+	}
+	.inner2_item {
+		max-width: 290px;
+		margin-right: 7px;
+	}
+	.inner2_item1{
+		max-width: 128px;
+		margin-right: 0px;
+	}
+	.inner2_item2{
+		max-width: 80px;
+	}
+	.inner2_item3{
+		max-width: 90px;
+	}
+	.inner2_item4{
+		max-width: 138px;
+	}
+	.inner2_item5{
+		max-width: 160px;
+	}
+	.inner2_item5>button{
+		max-width: 160px;
+	}
+	.fooditem_title_right{
+		margin-left: 270px;
+	}
+	.card_text_inner p span{
+		padding-left: 78px;
+	}
+	.card_text_inner h3{
+		font-size: 12px;
+	}
+	.card_text_inner2 p{
+		font-size: 12px;
+	}
+	.card_text_inner ul li a{
+		font-size: 11px;
+	}
+	.card_text_inner_ul_item1 {
+		margin-left: -4px !important;
+	}
+	.card_text_inner_ul_item2 {
+		margin-left: 0px !important;
+	}
+	.card_text_inner3_right{
+		margin-left: 48px;
+	}
+	.card_text_inner4 ul li a{
+		font-size: 9.7px;
+	}
+	.card_text_inner4 ul li a:after{
+		top: 5px;
+	}
+	
+	.pc_footer_right ul li a{
+		font-size: 11.5px;
+		padding: 0 10px;
+	}
+	.nav-item {
+		background: none !important;
+	}
+
+
+
+
+}
+
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px){
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width: 991px), only screen and (max-device-width: 991px) {
+
+
+	.feedback_area_inner_text{
+		padding-top: 70px;
+	}
+	.feedback_area_inner_text br{
+		display: none;
+	}
+	.feedback_area_inner_text p{
+		max-width: 645px;
+	}
+	.support_area_text{
+		max-width: 660px !important;
+	}
+	.form2_area{
+		padding-top: 42px;
+	}
+	.site_form2_textarea{
+		min-height: 215px;
+	}
+	.site_form button{
+		margin-bottom: 100px;
+	}
+	.form3_area_inner .site_form{
+		max-width: 354px;
+	}
+	.siteform3_inner_top input,
+	.siteform3_inner_mid input{
+		width: 100%;
+		display: block;
+	}
+	.advertise_inner_text{
+		max-width: 614px !important;
+	}
+	.form3_area{
+		padding-top: 13px;
+	}
+	.site_form3_textarea{
+		min-height: 188px;
+	}
+	
+
+}
+
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+	.feedback_area{
+		padding-top: 76px;
+		padding-bottom: 10px;
+	}
+	.form_area{
+		padding-top: 45px;
+	}
+	.form3_area_inner button{
+		margin-bottom: 100px;
+	}
+	.form3_area {
+		padding-top: 13px;
+	}
+	
+}
+
+@media only screen and (max-width: 580px), only screen and (max-device-width: 580px) {
+	
+	
+	
+	
+	
+}
+@media only screen and (max-width: 540px), only screen and (max-device-width: 540px) {
+	
+	.feedback_area_inner_text{
+		padding-top: 20px;
+	}
+	.feedback_area_inner_text p{
+		text-align: left;
+		font-size: 16px;
+	}
+	.form_area{
+		padding-top: 20px;
+	}
+	.form2_area{
+		padding-top: 15px;
+	}
+	.form3_area{
+		padding-top: 0px;
+	}
+}
+
+
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+	
+	
+	.site_form{
+		max-width: 100%;
+		width: 100%;
+	}
+	.site_form_lable{
+		margin-bottom: -10px;
+	}
+	.site_form_textarea{
+		min-height: 128px;
+	}
+	.site_form button{
+		margin-top: 23px;
+		margin-bottom: 100px;
+	}
+	.site_form2_textarea{
+		height: 140px;
+	}
+	.form3_area_inner .site_form{
+		max-width: 100%;
+	}
+	.form3_area_inner button{
+		margin-top: 55px;
+		margin-bottom: 100px;
+	}
+	.site_form3_textarea {
+		height: 140px;
+	}
+
+	
+	
+	
+}
+@media only screen and (max-width: 375px), only screen and (max-device-width: 375px) {
+	
+	
+	
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+}
+
+#examples .quotes p {
+    margin-bottom: 0.25rem !important;
+}
+
+#services {
+    background-color: var(--primary);
+}
+
+@media screen and (max-width: 991px) {
+    .navbar-nav > .nav-item {
+        margin-left: 0.5rem !important;
+        margin-right: 0.5rem !important;
+    }
+}
+@media screen and (max-width: 768px) {
+    .navbar > .container {
+        flex-direction: column;
+    }
+}

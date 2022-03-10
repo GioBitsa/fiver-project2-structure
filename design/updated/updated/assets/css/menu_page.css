@@ -1,0 +1,80 @@
+.dropdown-toggle::after {
+    border-top: .5rem solid !important;
+}
+
+body > div > section.account_lower_area > div > div > div > ul > li > div > div {
+    width: 100%;
+}
+
+.underline {
+    text-decoration: underline #777777;
+}
+
+.list-special-offers > li > a {
+    font-weight: 300;
+    margin-left: 5px;
+}
+
+.list-special-offers > li::marker {
+    content: "•";
+    color: #000 !important;
+    margin-right: 5px;
+}
+
+.img-muted {
+    opacity: .7;
+}
+
+.border-create-page {
+    border-top: 1px solid #666666;
+    margin-left: 2px;
+}
+
+@media screen and (max-width: 325px) {
+    #tab_display_mobile {
+        height: 50px;
+        position: relative;
+    }
+    .tab_display {
+        position: fixed;
+    }
+}
+
+@media screen and (min-width: 318px) and (max-width: 325px) and (min-height: 470px) and (max-height: 490px) {
+    .border-create-page {
+        padding-bottom: 20px;
+    }
+}
+ 
+@media screen and (min-width: 767px) {
+    .tablet--border {
+        border-bottom: 1px solid #666666;
+        padding-bottom: 30px;
+        padding-top: 30px !important;
+    }
+
+    .account_top_area {
+        background-color: #fff;
+    }
+}
+
+@media screen and (min-width: 1030px) {
+    #tab_display_mobile {
+        height: 62px;
+    }
+
+    .border-create-page {
+       padding-bottom: 30px;
+    }
+}
+
+
+/* Small Devices */
+@media screen and (max-width: 375px) {
+    .account_top_area {
+        height: 45px;
+    }
+    .tablet--border {
+        padding-top: 10px !important;
+    }
+}
