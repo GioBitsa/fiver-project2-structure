@@ -20,14 +20,45 @@
     background-color: var(--primary);
 }
 
+#services img {
+    max-width: 50px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
 @media screen and (max-width: 991px) {
     .navbar-nav > .nav-item {
         margin-left: 0.5rem !important;
         margin-right: 0.5rem !important;
+        font-size: 14px;
+    }
+    #footer p {
+        font-size: 14px;
     }
 }
 @media screen and (max-width: 768px) {
     .navbar > .container {
         flex-direction: column;
+    }
+    #footer .social, #footer ul {
+        justify-content: center !important;
+    }
+}
+@media screen and (max-width: 500px) {
+    #footer .social {
+        justify-content: space-between !important;
+    }
+}
+@media screen and (max-width: 700px) {
+    #header-lg .container-lg {
+        flex-direction: column;
+    }
+}
+@media screen and (min-width: 500px) {
+    #header-lg {
+        display: block !important;
+    }
+    #header-sm {
+        display: none !important;
     }
 }
