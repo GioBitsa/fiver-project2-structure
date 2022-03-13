@@ -28,3 +28,23 @@ font-display:auto;font-style:normal;font-weight:400;
 .tk-liberation-bold { font-family: "Liberation-bolds",sans-serif; }
 
 
+@font-face {
+    font-family:"HelveticaNeue";
+    src:url("../fonts/HelveticaNeue.woff2") format("woff2"),
+    url("../fonts/HelveticaNeue.woff") format("woff"),
+    url("../fonts/HelveticaNeue.otf") format("opentype");
+    font-display:auto;
+    font-style:normal;
+    font-weight:400;
+}
+
+@font-face {
+    font-family:"HelveticaNeue-medium";
+    src:url("../fonts/HelveticaNeue\ Medium.woff2") format("woff2");
+    font-display:auto;
+    font-style:normal;
+    font-weight:400;
+}
+
+.tk-helveticaNeune { font-family: "HelveticaNeune", sans-serif; }
+.tk-helveticaNeune-medium { font-family: "HelveticaNeune-medium", sans-serif; }

@@ -12,6 +12,87 @@
     --secondary: #6c757d;
 }
 
+body {
+    color: black;
+}
+
+button {
+    font-size: 14px !important;
+    font-family:"Liberation-bold" !important;
+    font-display:auto !important;
+    font-style:normal !important;
+    font-weight:700 !important;
+}
+
+.h1 {
+    font-size: 27px !important;
+    font-family:"HelveticaNeue-medium" !important;
+}
+
+.h5 {
+    font-family:"Liberation-bold" !important;
+    font-display:auto !important;
+    font-style:normal !important;
+    font-weight:700 !important;
+    font-size: 18px !important;
+}
+
+.h5.title {
+    font-family:"Liberation-bold" !important;
+    font-display:auto !important;
+    font-style:normal !important;
+    font-weight:700 !important;
+    font-size: 16px !important;
+}
+
+p {
+    font-family:"Liberation-regular" !important;
+    font-display:auto !important;
+    font-style:normal !important;
+    font-weight:400 !important;
+    font-size: 14px !important;
+    color: #212529 !important;
+}
+
+.btn-primary {
+    background-color: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+
+.header-btn {
+    font-size: 14px !important;
+}
+
+#header-sm .nav-link, #header-lg .nav-link {
+    font-family:"Liberation-bold" !important;
+    font-display:auto !important;
+    font-style:normal !important;
+    font-weight:700 !important;
+    font-size: 14px !important;
+}
+
+#header-sm {
+    padding-top: 0;
+}
+
+#header-sm .container-lg {
+    padding: 0;
+}
+
+#header-sm button {
+    width: 100%;
+    padding: 0.6rem 0;
+    border-radius: 0;
+}
+
+#header-sm .col-4 {
+    padding: 0;
+}
+
+#hero p {
+    margin-bottom: 1.5rem !important;
+}
+
 #examples .quotes p {
     margin-bottom: 0.25rem !important;
 }
@@ -21,44 +102,88 @@
 }
 
 #services img {
-    max-width: 50px;
+    max-width: 60px;
+    min-height: 80px;
     width: 100%;
     margin-bottom: 10px;
 }
 
-@media screen and (max-width: 991px) {
-    .navbar-nav > .nav-item {
-        margin-left: 0.5rem !important;
-        margin-right: 0.5rem !important;
-        font-size: 14px;
-    }
-    #footer p {
-        font-size: 14px;
-    }
+.copyright {
+    color: white !important;
+    font-size: 12px !important;
 }
-@media screen and (max-width: 768px) {
-    .navbar > .container {
-        flex-direction: column;
-    }
-    #footer .social, #footer ul {
-        justify-content: center !important;
-    }
+
+#footer .nav-link,
+#footer .nav-link i {
+    font-size: 11px;
 }
-@media screen and (max-width: 500px) {
-    #footer .social {
-        justify-content: space-between !important;
-    }
-}
-@media screen and (max-width: 700px) {
-    #header-lg .container-lg {
-        flex-direction: column;
-    }
-}
+
+/* responsive */
+
 @media screen and (min-width: 500px) {
+    .container-lg {
+        max-width: 728px;
+    }
     #header-lg {
         display: block !important;
     }
     #header-sm {
         display: none !important;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    #footer .row {
+        flex-direction: row !important;
+    }
+    #footer .row ul {
+        justify-content: flex-end !important;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .container-lg {
+        max-width: 960px !important;
+    }
+    .h5.title {
+        font-size: 22px !important;
+    }
+    p {
+        font-size: 18px !important;
+    }
+    .h1 {
+        font-size: 41px !important;
+    }
+    #footer .row {
+        flex-direction: row !important;
+    }
+    #footer .row ul {
+        justify-content: flex-end !important;
+    }
+    #footer .col-4 {
+        justify-content: flex-start !important;
+    } 
+    #footer hr {
+        margin-left: 1rem !important;
+        margin-right: 1rem !important;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .container-lg {
+        max-width: 1140px !important;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .container-lg {
+        max-width: 1320px !important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #footer .col-4,
+    #footer .col-8 {
+        width: 100% !important;
     }
 }
